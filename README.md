@@ -1,36 +1,55 @@
-# Hi, I'm Abdulrahman! 👋
+# Hi, I'm Abdulrahman El-Badry 👋  
 
-## 📊 Data Analyst | Business Intelligence Specialist
+I am a **Google & Cisco Certified Data Analyst** and **Business Intelligence Specialist**, passionate about transforming complex data into **clear insights** and **interactive dashboards** that empower smarter decision-making.  
 
-I help businesses unlock insights from their data to drive measurable growth and strategic decision-making.
-
-### 🛠️ Technical Skills
-- **Languages**: Python, SQL
-- **Tools**: Excel, Google Sheets, Tableau, Power BI
-- **Analysis**: Market & Sales Performance Analysis, Customer Segmentation, Data Analysis & Insights
-- **Visualization**: Dashboard Development, Data Visualization & Storytelling, Interactive Reporting
-- **Automation**: Automated Data Reporting Solutions, SQL Query Development
-
-### 🏆 Certifications
-- Google Data Analytics Professional Certificate
-- Cisco Data Analytics Essentials
-
-### 🚀 Currently Learning
-- Advanced Python for Data Analysis
-- Statistical Modeling and Machine Learning
-- Interactive Dashboard Development
-
-### 📊 Featured Projects
-- 🛍️ E-commerce Customer Analytics (in development) - RFM segmentation analysis
-- 📈 Sales Performance Dashboard (planning phase)
-- 🎯 Business Intelligence Solutions (upcoming)
-
-### 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mrbadry-eg&show_icons=true&theme=radical)
-
-### 🤝 Let's Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/badryxo)
-- 📧 mr.abdulrahmanbadry@gmail.com
+My approach blends **technical expertise**, **data storytelling**, and **problem-solving**, making analytics accessible and actionable for decision-makers. I’m also expanding my expertise in **data science and machine learning** to deliver advanced analytical solutions.  
 
 ---
-⚡ Transforming data into actionable business insights!
+
+## 🔧 Technical Skills & Core Competencies  
+
+- **Languages & Tools:**  
+  Python (Pandas, NumPy, Matplotlib), SQL, Excel/Spreadsheets, Power BI  
+
+- **Core Business Solutions:**  
+  Business Intelligence Reporting & KPI Tracking, Interactive Dashboard Development, Market & Sales Performance Analysis, Data Visualization & Storytelling  
+
+- **Data Analysis Techniques:**  
+  Data Cleaning & Preparation, Exploratory Data Analysis (EDA), Cohort Analysis  
+
+- **Advanced Capabilities:**  
+  SQL Query Development, Automated Data Reporting Solutions  
+
+---
+
+## 🏆 Certifications  
+- Google & Cisco Certified Data Analyst  
+- Data Analytics Foundation  
+- Marketing Analytics Foundation  
+- Prepare Data for Exploration  
+- Intro to Programming  
+
+---
+
+## 📁 Portfolio Projects  
+
+| Project | Description | Tech / Skills | Status |
+|--------|--------------|----------------|--------|
+| **[E-Commerce Customer Analytics & Churn Prediction](https://github.com/mrbadry-eg/ecommerce-customer-analytics)** | End-to-end customer analytics case study: RFM segmentation, cohort analysis, churn modeling, retention strategies | Excel / Spreadsheets, Tableau, Statistical & Predictive Modeling, Business Storytelling | ✅ Completed |
+| **Sales & Marketing Analytics Case Study** | A 4-level analytics project across sales & marketing: dashboards, diagnostic analysis, forecasting, prescriptive recommendations | Excel, Tableau, Statistical Modeling | 🛠 In progress |
+| **More Projects Coming Soon** | Expanding portfolio with BI and advanced analytics case studies | Power BI, Tableau, Excel | 🔜 Planned |  
+
+---
+
+## 📊 GitHub Stats  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mrbadry-eg&show_icons=true&theme=radical)  
+
+---
+
+## 🤝 Let’s Connect  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/badryxo)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mr.abdulrahmanbadry@gmail.com)  
+
+---
+
+⚡ **Transforming data into actionable business insights!**  
