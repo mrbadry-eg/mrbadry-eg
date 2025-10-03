@@ -30,12 +30,11 @@ My approach blends **technical expertise**, **data storytelling**, and **problem
 - Intro to Programming  
 
 ---
-
 ## 📁 Portfolio Projects  
 
 | Project | Description | Tech / Skills | Status |
-|--------|--------------|----------------|--------|
-| **[E-Commerce Customer Analytics & Churn Prediction](https://github.com/mrbadry-eg/ecommerce-customer-analytics)** | End-to-end customer analytics case study: RFM segmentation, cohort analysis, churn modeling, retention strategies | Excel / Spreadsheets, Tableau, Statistical & Predictive Modeling, Business Storytelling | ✅ Completed |
+|---------|-------------|----------------|--------|
+| **[E-Commerce Customer Analytics & Churn Prediction](https://github.com/mrbadry-eg/ecommerce-customer-analytics)** | End-to-end analytics project covering RFM segmentation, cohort analysis, churn prediction, and customer retention strategies | Python (Pandas, NumPy, Scikit-learn), SQL, Data Wrangling, EDA, Predictive Modeling, Visualization (Matplotlib/Seaborn/Plotly), Business Storytelling | ✅ Completed |
 | **Sales & Marketing Analytics Case Study** | A 4-level analytics project across sales & marketing: dashboards, diagnostic analysis, forecasting, prescriptive recommendations | Excel, Tableau, Statistical Modeling | 🛠 In progress |
 | **More Projects Coming Soon** | Expanding portfolio with BI and advanced analytics case studies | Power BI, Tableau, Excel | 🔜 Planned |  
 
